@@ -12,7 +12,7 @@
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
-  background-color: rgb(209, 237, 241);
+  background: rgb(101, 9, 148);
 }
 ::selection{
   color: #fff;
@@ -22,7 +22,7 @@
   width: 370px;
   padding: 30px;
   border-radius: 7px;
-  background: rgb(174, 159, 225);
+  background-color: rgb(236, 239, 243);
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
 }
 .wrapper header{
@@ -102,7 +102,7 @@ form button{
   color: #fff;
   font-size: 17px;
   cursor: pointer;
-  background: #5328ef;
+  background: rgb(101, 9, 148);
   transition: 0.3s ease;
   border: 2px solid red;
 }
